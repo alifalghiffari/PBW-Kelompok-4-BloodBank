@@ -1,0 +1,85 @@
+.margin {
+    padding-top: 7rem;
+}
+
+.margin2 {
+    padding-top: 13rem;
+}
+
+.nav1 {
+    font-family: Lekton, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 32px;
+    /* identical to box height, or 89% */
+
+    letter-spacing: 4px;
+
+    color: #5f1e1e;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav2 {
+    position: absolute;
+    width: 265px;
+    height: 32px;
+    top: 35px;
+
+    font-family: Montez, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 2px;
+
+    color: #000000;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.borderr {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.gray {
+    background-color: #f3f3f3;
+}
+
+.w-85 {
+    width: 85% !important;
+}
+
+form input[type="text"]:focus {
+    outline-color: #c41617;
+}
+
+.ps {
+    height: 24px;
+    left: 65.97%;
+    right: 29.31%;
+    top: calc(50% - 24px / 2 - 465px);
+
+    /* Regular 14 */
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    /* Colour/Main/Blue/500 */
+
+    color: #505f98;
+}
+
+.pl {
+    padding-left: 2px;
+}
